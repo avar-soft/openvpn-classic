@@ -5,7 +5,7 @@
 **Профессиональная установка и управление OpenVPN-сервером за несколько минут**
 
 [![Bash](https://img.shields.io/badge/Bash-4.0+-green?style=for-the-badge&logo=gnu-bash)](https://www.gnu.org/software/bash/)
-[![Platform](https://img.shields.io/badge/Ubuntu%20%7C%20Debian%20%7C%20CentOS-blue?style=for-the-badge&logo=linux)](https://kernel.org)
+[![Platform](https://img.shields.io/badge/Ubuntu-blue?style=for-the-badge&logo=linux)](https://kernel.org)
 [![License](https://img.shields.io/badge/Лицензия-MIT-orange?style=for-the-badge)](LICENSE)
 [![OpenVPN](https://img.shields.io/badge/OpenVPN-2.5+-red?style=for-the-badge)](https://openvpn.net/)
 
@@ -97,10 +97,9 @@
 
 | Параметр | Значение |
 | --- | --- |
-| **ОС** | Ubuntu, Debian, CentOS, Oracle Linux, Rocky Linux, AlmaLinux, Fedora, Amazon Linux 2023, Arch Linux |
+| **ОС** | Ubuntu 22.04 + |
 | **Права** | root / sudo |
 | **Bash** | ≥ 4.0 |
-| **systemd** | обязателен |
 
 **Зависимости устанавливаются автоматически:** `openvpn` · `easy-rsa` · `qrencode` · `iptables / nftables`
 
