@@ -74,7 +74,6 @@
 | --- | --- |
 | **iptables** | ✔ systemd-сервис для восстановления после перезагрузки |
 | **nftables** | ✔ таблицы `inet openvpn` и `ip openvpn-nat` |
-| **firewalld** | ✔ постоянные правила через `firewall-cmd --permanent` |
 
 ---
 
