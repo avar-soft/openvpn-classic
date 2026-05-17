@@ -109,6 +109,7 @@
 ## ⚡ Быстрый старт
 
 ```bash
+curl -O https://raw.githubusercontent.com/avar-soft/openvpn-classic/main/openvpn-install.sh
 chmod +x openvpn-install.sh
 sudo bash openvpn-install.sh
 ```
@@ -116,8 +117,8 @@ sudo bash openvpn-install.sh
 ### Или через git
 
 ```bash
-git clone https://github.com/<your-repo>/openvpn-install.git
-cd openvpn-install
+git clone https://github.com/avar-soft/openvpn-classic.git
+cd openvpn-classic
 sudo bash openvpn-install.sh
 ```
 
