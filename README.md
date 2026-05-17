@@ -346,7 +346,7 @@ Pull requests приветствуются. Для значительных из
 
 ## 📄 Лицензия
 
-MIT
+MIT © [avar-soft](https://github.com/avar-soft)
 
 ---
 <div align="center">
